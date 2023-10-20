@@ -1,4 +1,4 @@
-<h1>Hi, I'm Safwan! <br/><a href="">Cybersecurity Student</a>, <a href="">Hobbyist Coder</a></h1>
+<h1>Hi, I'm Safwan! <br/><a href="">Cyber Security Student</a>, <a href="">Hobbyist Coder</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
